@@ -5,12 +5,6 @@ Few of the python libraries we would be using are as listed below:
 
 1. Pandas 
 2. NumPy 
-3. Matplotlib
-4. Seaborn 
-5. SciPy 
-6. scikit-learn 
-7. Statsmodels 
-8. TensorFlow 
-9. Keras 
-10. Apache Spark
+
+
 
